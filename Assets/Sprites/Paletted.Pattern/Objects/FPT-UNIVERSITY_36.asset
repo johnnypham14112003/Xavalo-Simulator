@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: FPT-UNIVERSITY_36
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -322209868, guid: 30f13c6d3db43b94d8a27972ff29d5fc, type: 3}
+  m_Sprite: {fileID: 33373914, guid: 6e5c7eabe59f8fa409ee3eb6db596131, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

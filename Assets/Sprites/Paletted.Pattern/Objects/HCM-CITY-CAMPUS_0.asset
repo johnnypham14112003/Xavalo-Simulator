@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: HCM-CITY-CAMPUS_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1781185727, guid: cbac136ce317c5b4ea4f8e00757edf35, type: 3}
+  m_Sprite: {fileID: 1843192012, guid: 4c797ea067e4a5b45b7d8cd014bf28e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

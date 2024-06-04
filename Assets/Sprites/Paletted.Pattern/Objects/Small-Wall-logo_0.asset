@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Small-Wall-logo_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 721189150, guid: ed0ab6d00d3790543b5506feed0143b3, type: 3}
+  m_Sprite: {fileID: -1660635203, guid: 07cbbb71549784b498492848ab83341b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
