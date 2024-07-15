@@ -1,15 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
-public class Dialogue : MonoBehaviour
+public class Coins : MonoBehaviour
 {
-    public TextMeshProUGUI textMeshPro;
-    public string[] lines;
-    public float textSpeed;
+    public int value;
 
-    private int index;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,5 +16,12 @@ public class Dialogue : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Player")){
+            CoinCounter.instance.PayMoney(value);
+        }
     }
 }
